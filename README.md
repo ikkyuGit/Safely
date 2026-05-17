@@ -70,7 +70,6 @@ safety/
 │   ├── progress.json      # 📌 统一进度数据存储（所有用户）
 │   └── questions.json     # 题库数据（600 道题）
 │
-├── study_data.json        # ⚠️ 已删除（仅为个人导出备份，非必需）
 └── safety5.14.zip         # 原始备份压缩包
 ```
 
